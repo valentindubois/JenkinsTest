@@ -6,7 +6,7 @@ public class App {
 
     Jenkins jenkins = new Jenkins();
     System.out.println(jenkins.testJenkins());
-    
+
   }
 
 }
